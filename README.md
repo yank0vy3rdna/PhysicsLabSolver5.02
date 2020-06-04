@@ -17,6 +17,7 @@
 - запустить скрипт
 
 ```python3 -m pip install pandas matplotlib numpy```
+```python3 main.py```
 
 ## Кто автор?
 
